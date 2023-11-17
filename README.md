@@ -9,6 +9,6 @@
 
 - [Discord Clone - Learn MERN Stack with WebRTC and SocketIO](https://www.udemy.com/certificate/UC-5141d2cc-2373-4991-b825-738cf72f13d6/)
 
-- [Think In a Redux way](https://drive.google.com/file/d/1aBj0aiRihKGHSGC3dZW66Aa6axbq4u74/view?usp=sharing)
+- [Think In a Redux way](https://drive.google.com/file/d/1eF1Qx0xWdQ9szModi4hkzcHDw1Zbg2O-/view?usp=sharing)
 
 - [Complete Web Development](https://drive.google.com/file/d/11CeaamuM6Wm0b0r01P6w4HomFQUQYBtQ/view?usp=sharing)
